@@ -1,4 +1,4 @@
-<p align="center">💰 FamilyBudget — Console App for Managing Your Budget 💰</p>
+<p align="center">💰 FamilyBudget 💰</p>
 
 > 📊 **FamilyBudget** is a simple console-based application for tracking income, expenses, and generating reports, built with **C# (.NET 9.0)**.  
 > 🎓 Developed as a course project by a college student.  

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "familybudget (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "familybudget (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

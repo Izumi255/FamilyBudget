@@ -45,7 +45,7 @@ If you find any, feel free to [open an issue](https://github.com/Izumi255/Family
 ## 🛠️ Technologies Used
 
 - C#
-- .NET 9.0 (Console)
+- .NET 9.0
 
 ---
 
